@@ -1,2 +1,3 @@
 let score;
- console.log(let);
+score = 'Hello Git';
+console.log(score);
